@@ -1,4 +1,30 @@
-# <p align="center">📺 STREAM IPTV</p>
+# <p align="center">
+  <span style="display:inline-flex; align-items:center; font-size:2rem; font-weight:bold;">
+    <!-- Custom Logo -->
+    <span style="
+      display:inline-block;
+      width:2rem;
+      height:1.5rem;
+      background-color:#007AFF;
+      border-radius:0.25rem;
+      position:relative;
+      margin-right:0.5rem;
+    ">
+      <!-- Play icon -->
+      <svg viewBox="0 0 24 24" fill="black" style="
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%, -50%);
+        width:1rem;
+        height:1rem;
+      ">
+        <polygon points="5,3 19,12 5,21"></polygon>
+      </svg>
+    </span>
+    STREAM IPTV
+</span>
+</p>
 
 <p align="center">
   <strong>Elevating Your Live Streaming Experience with seamless performance and high-quality content.</strong>
