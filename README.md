@@ -50,5 +50,6 @@ The core technologies driving this project:
 
 ---
 <p align="center">
-  © 2026 Stream IPTV. Licensed under <b>GPL</b>.
+  © 2026 Stream IPTV. Licensed under <b>General Public License-3.0</b>.
 </p>
+
